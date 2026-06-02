@@ -34,7 +34,7 @@ The dashboard follows a **business intelligence approach**, combining KPI monito
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="assets/dashboard.png" width="95%" alt="Explore Bharat Dashboard"/>
+  <img src="Explore Bharat Tourist Destination Analytics Dashboard.jpeg" width="95%" alt="Explore Bharat Dashboard"/>
 </p>
 
 ---
