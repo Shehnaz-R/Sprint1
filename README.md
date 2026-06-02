@@ -1,4 +1,4 @@
-# 🇮🇳 Explore Bharat: Tourist Destination Analytics Dashboard
+# Explore Bharat: Tourist Destination Analytics Dashboard
 
 <p align="center">
   <b>Interactive Excel Dashboard for Tourism Insights Across India</b><br><br>
