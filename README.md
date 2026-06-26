@@ -40,13 +40,16 @@ The dashboards follow a **business intelligence approach**, combining KPI monito
 
 ### 📊 Excel Dashboard
 
-<img src="assets/excel_dashboard.png" width="95%" alt="Explore Bharat Excel Dashboard"/>
+<img src="Explore Bharat Tourist Destination Analytics Dashboard.jpeg" width="95%" alt="Explore Bharat Excel Dashboard"/>
 
 <br><br>
 
 ### 📈 Power BI Dashboard
 
-<img src="assets/powerbi_dashboard.png" width="95%" alt="Explore Bharat Power BI Dashboard"/>
+<img src="powerbi_intro_1.png" width="95%" alt="Explore Bharat Power BI Dashboard"/>
+<img src="powerbi_overview_2.png" width="95%" alt="Explore Bharat Power BI Dashboard"/>
+<img src="powerbi_Experience_3.png" width="95%" alt="Explore Bharat Power BI Dashboard"/>
+<img src="power_bi_insights_4.png" width="95%" alt="Explore Bharat Power BI Dashboard"/>
 
 </p>
 
